@@ -1,0 +1,25 @@
+Web dashboard for SVXLink Server
+
+Implemented using Node Express.
+
+Shows status of node.
+
+Transmit
+Receive
+CPU Temperature
+Reflector status
+Talkgroup status
+
+more stuff like that
+
+Read-only, not for making configuration changes.
+No root access required.
+
+
+Other apps / resources
+
+svxlink-dash
+svxconnect
+svxportal
+
+Critiques of other projects
